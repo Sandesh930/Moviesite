@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Moviesite/static/css/main.dd3d04fe.css",
+    "main.js": "/Moviesite/static/js/main.38fe2f10.js",
+    "static/js/787.1dddd566.chunk.js": "/Moviesite/static/js/787.1dddd566.chunk.js",
+    "index.html": "/Moviesite/index.html",
+    "main.dd3d04fe.css.map": "/Moviesite/static/css/main.dd3d04fe.css.map",
+    "main.38fe2f10.js.map": "/Moviesite/static/js/main.38fe2f10.js.map",
+    "787.1dddd566.chunk.js.map": "/Moviesite/static/js/787.1dddd566.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd3d04fe.css",
+    "static/js/main.38fe2f10.js"
+  ]
+}
